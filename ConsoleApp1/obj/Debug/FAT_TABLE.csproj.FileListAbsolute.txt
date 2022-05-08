@@ -1,0 +1,7 @@
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\obj\Debug\FAT_TABLE.csprojAssemblyReference.cache
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\obj\Debug\FAT_TABLE.csproj.CoreCompileInputs.cache
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\DELL 2020\Desktop\codeBlocks\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
